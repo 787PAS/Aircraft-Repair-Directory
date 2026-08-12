@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://787pas.github.io/Aircraft-Repair-Directory/sitemap.xml
